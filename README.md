@@ -1,2 +1,2 @@
 # IPTV
-精彩剧集m3u文件链接：https://github.com/meetsyf/IPTV/blob/main/TVseries.m3u
+## 精彩剧集m3u文件下载链接：[TVseries.m3u](https://meetsyf.github.io/IPTV/TVseries.m3u)
